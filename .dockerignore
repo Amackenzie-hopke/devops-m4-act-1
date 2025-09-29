@@ -1,10 +1,6 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
+node_modules/
+COMP-4001: DEVELOPING IN A DEVOPS ENVIRONMENT 5
+npm-debug.log
 *.log
 .git
-.gitignore
+.gitignor
